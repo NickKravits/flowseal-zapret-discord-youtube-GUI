@@ -1,8 +1,9 @@
-/utils/test results
-/utils/game_filter.enabled
-/lists/ipset-exclude-user.txt
-/lists/list-general-user.txt
-/lists/list-exclude-user.txt
-
-.vscode/
-/build/
+bin/
+obj/
+publish/
+dist/
+*.user
+.vs/
+.idea/
+zapret-gui.json
+src/ZapretGui/zapret/
